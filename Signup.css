@@ -1,0 +1,73 @@
+#oneee{
+    width: 50%;
+    height: 500px;
+    border: 2px solid  #b3b3cc;
+    background-color: #fff0e6;
+    text-align: center;
+    margin: 20px auto;
+    border-radius: 10px;
+    color: #ff8533;
+
+   } 
+   .form{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+    /* background-color: antiquewhite; */
+    width: 80%;
+    margin: 20px auto;
+    height: 300px;
+    color: black;
+   }
+   .form label{
+    margin-top: 20px;
+    margin-bottom: 20px;
+   }
+   .form input{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 12px;
+    background-color: none;
+    border: 1px solid #ff8533;
+    border-radius: 5px;
+    height: 17px;
+
+   }
+   .form input:hover{
+    box-shadow: #ff8533;
+   }
+   .intrest{
+    margin: 10px auto;
+    /* background-color: aqua; */
+    width: 30%;
+   }
+   .gender{
+    /* background-color: pink; */
+    width: 60%;
+    margin: 10px auto;
+   }
+   .tel{
+    /* background-color: brown; */
+    width: 40%;
+    margin: 10px auto;
+   }
+   .email{
+    /* background-color: violet; */
+    width: 40%;
+    margin: 10px auto;
+   }
+   button{
+    width: 200px;
+    height: 40px;
+    margin-top: 40px;
+    background-color: #ff8533;
+    color: white;
+    border: none;
+    border-radius: 7px;
+    font-weight: bolder;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   }
+   button:hover{
+     border: 2px solid #ff8533;
+     color: #ff8533;
+     background-color: white;
+   }
